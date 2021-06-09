@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stefano Canepa</h1>
-<h3 align="center">A stubborn IT guy, free software addicted lost in clouds</h3>
+<h1>Hi, I'm Stefano Canepa</h1>
+<h3>I'm a sort of programmer and system administrator working with computers in the cloud. I'm a free software user and advocate who uses only Linux. While not in front of a screen I like swimming and cycling.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scanepa&label=Profile%20views&color=0e75b6&style=flat" alt="scanepa" /> </p>
 
