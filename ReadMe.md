@@ -15,6 +15,7 @@ You can reach me by sending an e-mail to **sc@linux.it**
 ## How to connect with me
 
 <p align="left">
-<a href="https://twitter.com/scanepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scanepa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stefanocanepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanocanepa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stefanocanepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Stefano Canepa profile on LinkedIn" height="30" width="40" /></a>
+<a href="https://hachyderm.io/web/@sc" target="blank"><img align="center" src="https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg" alt="Stefano Canepa on Mastodon" height="30" /></a>
+  <a href="https://twitter.com/scanepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Stefano Canepa on Twitter" height="30" width="40" /></a>
 </p>
