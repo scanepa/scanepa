@@ -16,8 +16,5 @@ You can reach me by sending an e-mail to **sc@linux.it**
 
 ## How to connect with me
 
-<p align="left">
-  <a rel="me" href="https://hachyderm.io/@sc"><i class="fa-brands fa-mastodon"></i></a>
-
-<a href="https://linkedin.com/in/stefanocanepa"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="Stefano Canepa profile on LinkedIn" width="30" height="30"></a>
-</p>
+<a rel="me" href="https://hachyderm.io/@sc">Mastodon</a>
+<a href="https://linkedin.com/in/stefanocanepa">LinkedIn</a>
